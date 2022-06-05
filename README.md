@@ -10,7 +10,7 @@
     - Gender (optional) 
         - :man: __Male__
     - Date of birth (optional)
-        - :date-14: __14 Dec 1996__
+        - 📅: __14 Dec 1996__
     - Email 
         - :mailbox: __Tomatox_boss@hotmail.com__
 
@@ -29,7 +29,7 @@
         - :white_large_square: Communicable  
 
 - **Current status** 
-    - :round_pushpin: Live in ```Thailand Bangkok Bangna
+    - :round_pushpin: Live in 🇹🇭```Thailand Bangkok Bangna 
     - :heavy_check_mark: Nationality ```Thailand
     - :heavy_check_mark: Total years of experience ```Less than one year
     - :heavy_check_mark: Employment period ```Apr 2022 - Present
