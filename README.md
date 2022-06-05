@@ -10,7 +10,7 @@
     - Gender (optional) 
         - :man: __Male__
     - Date of birth (optional)
-        - :date: __14 Dec 1996__
+        - 📅: __14 Dec 1996__
     - Email 
         - :mailbox: __Tomatox_boss@hotmail.com__
 
