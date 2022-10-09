@@ -12,7 +12,7 @@
     - Date of birth (optional)
         - 📅: __14 Dec 1996__
     - Email 
-        - :mailbox: __Tomatox_boss@hotmail.com__
+        - :mailbox: __suphakorn.chop@gmail.com__
 
 - **Education** 👨‍🎓
     - :school: Institute __Naresuan University.__
